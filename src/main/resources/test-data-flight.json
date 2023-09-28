@@ -1,0 +1,72 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 5828,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2016-10-25T10:22:17-02:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 2916,
+    "departureAirportIATACode": "GDN",
+    "arrivalAirportIATACode": "YYT",
+    "departureDate": "2016-10-25T01:06:22-01:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 3633,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2020-02-02T07:44:17-01:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 4187,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2020-10-29T10:11:48-01:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 6226,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2022-06-01T06:48:02-02:00"
+  },
+  {
+    "flightId": 5,
+    "flightNumber": 4196,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2020-02-06T07:50:53-01:00"
+  },
+  {
+    "flightId": 6,
+    "flightNumber": 5559,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2015-04-06T07:17:21-02:00"
+  },
+  {
+    "flightId": 7,
+    "flightNumber": 8985,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2015-10-17T08:02:41-02:00"
+  },
+  {
+    "flightId": 8,
+    "flightNumber": 7311,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2019-05-01T06:57:35-02:00"
+  },
+  {
+    "flightId": 9,
+    "flightNumber": 4798,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2019-06-02T07:18:38-02:00"
+  }
+]
